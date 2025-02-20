@@ -45,4 +45,6 @@ Ahora funciona correctamente dado que tiene un origen definido gracias al comand
 ## 1.8 Subir los cambios en el repositorio remoto
 ![alt text](image-7.png)
 ![alt text](image-8.png)
+![alt text](image-10.png)
 ## 1.9 Resultados en repositorio remoto
+![alt text](image-9.png)
