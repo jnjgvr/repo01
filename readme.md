@@ -28,11 +28,12 @@ git status
 git commit -m
 ```
 ![alt text](image-3.png)  
-![alt text](image-4.png)
+![alt text](image-4.png)  
 __¿En que__ ___"file status lifecycle"___ __se encuentra el fichero?__  
 Commited
 ## 1.4 Subir los ficheros al repositorio remoto
-![alt text](image.png)  Esta intentando subir los ficheros a un repositorio remoto, pero todavia no tengo ninguno configurado para el local, por tanto no tiene donde subirlo.
+![alt text](image.png)  
+Esta intentando subir los ficheros a un repositorio remoto, pero todavia no tengo ninguno configurado para el local, por tanto no tiene donde subirlo.
 
 ## 1.5 git remote -v
 ![alt text](image-1.png)  
